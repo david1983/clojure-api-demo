@@ -1,6 +1,6 @@
-# api
+# TODO api
 
-FIXME
+A simple API for a todo list written with clojure
 
 ## Prerequisites
 
